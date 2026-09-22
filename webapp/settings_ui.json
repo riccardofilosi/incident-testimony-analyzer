@@ -1,0 +1,5 @@
+{
+  "api_keys": [],
+  "model": "gemini-3.5-flash",
+  "n_runs_default": 5
+}

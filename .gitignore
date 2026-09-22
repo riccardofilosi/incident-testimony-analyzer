@@ -1,0 +1,13 @@
+# Ambienti e dipendenze
+webapp/.venv/
+node_modules/
+__pycache__/
+webapp/frontend/dist/
+
+# Segreti
+webapp/.env
+
+# Dati generati a runtime
+webapp/incidents/
+webapp/LLM sicurezza/
+webapp/output_reports/
